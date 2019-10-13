@@ -28,7 +28,7 @@ let arrImg = [
       url:'./anh9.jpg'
     },
     {
-      url:'./anh4.jpg'
+      url:'./anh5.jpg'
     }, 
     {
       url:'./anh11.jpg'
@@ -37,7 +37,7 @@ let arrImg = [
       url:'./anh12.jpg'
     },  
     {
-        url:'./anh5.jpg'
+        url:'./anh4.jpg'
       }, 
 ]
 
